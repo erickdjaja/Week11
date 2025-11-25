@@ -1,7 +1,6 @@
 // Program Java untuk mendemonstrasikan exception dilempar
 // bagaimana sistem run-time mencari call stack
 // untuk mencari penangan exception yang sesuai.
-
 public class ExceptionThrown {
 
     // Melempar Exception (ArithmeticException)
